@@ -11,4 +11,5 @@ I am going to start with creating a chat-bot.  I think the best way to do it is 
 | Task | Description/Command | Completed |
 | ----------- | ----------- | ----------- |
 | Create a crewai flow | crewai create flow chat-crew | 03/17/2025 |
-| Create a crewai crew: | crewai create crew chat-crew | |
+| Create a crewai crew: | crewai flow add-crew chat-crew | 03/17/2025 |
+| Modify crews  | Delete all but 1 agent |   |
